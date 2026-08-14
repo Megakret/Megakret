@@ -6,6 +6,6 @@
 <img height="32" width="32" alt="PostgreSQL" src="https://cdn.simpleicons.org/postgresql/black/white">
 <img height="32" width="32" alt="Linux" src="https://cdn.simpleicons.org/linux/black/white">
 <img height="32" width="32" alt="Postman" src="https://cdn.simpleicons.org/postman/black/white">
-<img height="32" width="32" alt="gRPC" src="images/grpc-logo">
+<img height="32" width="32" alt="gRPC" src="images/grpc-logo.svg">
 ## Contacts
 - <a href="https://t.me/megakret">Telegram </a>
